@@ -48,7 +48,10 @@ const Footer = () => {
         
         <div className="mt-8 pt-8 border-t border-border text-center">
           <p className="text-sm text-muted-foreground">
-            © 2024 Fusion. All rights reserved.
+            © 2026 Fusion. All rights reserved.
+          </p>
+          <p className="text-sm text-muted-foreground mt-2">
+            Built by Sahil Bhardwaj
           </p>
         </div>
       </div>
